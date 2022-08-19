@@ -1,0 +1,91 @@
+body {
+  font-family: 'DynaPuff', cursive;
+}
+
+.navbar-brand {
+  padding: 5px 500px 5px 20px;
+  font-size: 3rem;
+}
+#home, #skill, #about {
+  padding: 100px;
+}
+.Boom {
+  padding-bottom: 50px;
+  text-align: center;
+}
+.loom {
+  text-align: left;
+}
+ #Project  {
+   padding-bottom: 50px;
+ }
+.fa-brands {
+  color: white;
+}
+.Bloom {
+  padding: 50px;
+  text-align: center;
+  margin-bottom: 0;
+}
+.looma {
+  padding: 50px 50px 0 50px ;
+}
+
+.fa-facebook:hover {
+  color: #4267B2;
+}
+.fa-instagram:hover {
+  color: #E1306C;
+}
+.fa-twitter:hover {
+  color: #00acee;
+}
+.fa-linkedin:hover {
+  color: #0072b1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#about {
+  text-align: center;
+}
+.aboutMeText {
+  text-align: center;
+  padding-left:200px;
+  padding-right: 200px;
+  padding-bottom: 40px;
+}
+
+
+
+
+
+.justify-content-center {
+  padding-bottom: 40px
+}
